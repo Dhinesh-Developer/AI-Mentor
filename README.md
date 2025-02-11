@@ -42,3 +42,5 @@ This documentation provides step-by-step instructions to integrate Google's Gemi
 ## 7. Conclusion
 This documentation outlines the integration of Gemini AI with Spring Boot and Thymeleaf, enabling AI-powered responses via a simple web interface.
 
+![WhatsApp Image 2025-02-11 at 11 42 31_11277e92](https://github.com/user-attachments/assets/e9bc894a-ddaf-4a17-a4b3-1791be035e8c)
+
